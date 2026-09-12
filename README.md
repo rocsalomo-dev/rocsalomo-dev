@@ -22,6 +22,7 @@ Python · SQL · data warehousing · ETL · automation background — now applie
 | Repo | What it shows |
 |---|---|
 | [gravelradar-showcase](https://github.com/rocsalomo-dev/gravelradar-showcase) | Agent designs, tooling & architecture — the *how*, without the data |
+| [personal-ai-rag](https://github.com/rocsalomo-dev/personal-ai-rag) | Private-first RAG assistant with local Qwen, Pinecone retrieval, FastAPI and cited answers |
 
 ### 🛠 What I work with
 
